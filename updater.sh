@@ -3,7 +3,7 @@
 #============================================================================================
 #Filename        updater.sh
 #Description.....Update script for any Debian-based Linux distribution. 
-#                Checks for the latest updates, downloads them, and then reboots the system. 
+#                Checks for the latest updates and downloads and installs them
 #Author          Michael Kruzil (mkruzil@mikruweb.com)
 #Date Created....9/1/19 10:00 AM
 #
